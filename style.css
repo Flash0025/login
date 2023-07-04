@@ -25,6 +25,7 @@ body {
     align-items: center;
     flex-basis: 300px;
     height: 400px;
+    box-shadow: 0px 20px 50px #ffa200;
 }
 
 .login-form {
